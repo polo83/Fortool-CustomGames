@@ -12,4 +12,4 @@ Discord.py (pip install discord.py)
 
 Macro Recorder pour modifier les macros (https://www.jitbit.com/macro-recorder/)
 
-PS: chaque macro représente un mode de jeu, vous devez les refaires avec le logiciel Macro Recorder (/!\ ne pas changer l'extension des macros ".exe")
+PS: chaque macro représente un mode de jeu, vous devez les refaires avec le logiciel Macro Recorder (/!\ ne pas changer l'extension des macros)
