@@ -19,3 +19,5 @@ Un ordinateur qui fais tourner Fortnite
 PS: chaque macro représente un mode de jeu, vous devez les refaires avec le logiciel Macro Recorder (/!\ ne pas changer l'extension des macros)
 
 /!\ Code modifiée par Iyed Amri et créer par Quentin Savean
+
+Prochaine mise à jour : 30/11/2021
