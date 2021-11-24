@@ -32,4 +32,4 @@ async def on_command_error(ctx, error):
         msg = "Veuillez patientez `{:.2f}s` puis ensuite réssayer".format(error.retry_after)
         await ctx.send(msg)
 
-bot.run("NzE3ODMyODI2OTAwMTg1MTA5.XtgD6g.FMBylrBGWqN6drz8agbQdLQcMSY", bot=True, reconnect=True)
+bot.run("TOKEN", bot=True, reconnect=True)
