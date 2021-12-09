@@ -6,15 +6,15 @@ Vous devez modifier les macros via le logiciel Macro Recorder.
 
 **Python (https://python.org/downloads)**
 
-**Pynput (pip install pynput)
+**Pynput (pip install pynput)**
 
-**Discord.py (pip install discord.py)
+**Discord.py (pip install discord.py)**
 
-**Macro Recorder pour modifier les macros (https://www.jitbit.com/macro-recorder/)
+**Macro Recorder pour modifier les macros (https://www.jitbit.com/macro-recorder/)**
 
-**Un code créateur (pour lancer les parties)
+**Un code créateur (pour lancer les parties)**
 
-**Un ordinateur qui fais tourner Fortnite
+**Un ordinateur qui fais tourner Fortnite**
 
 /!\ Vous devez modifier toutes les macros.
 
