@@ -20,4 +20,4 @@ PS: chaque macro représente un mode de jeu, vous devez les refaires avec le log
 
 /!\ Code modifiée par Iyed Amri et créer par Quentin Savean (https://github.com/quentinsvn)
 
-Prochaine mise à jour : 30/11/2021
+Prochaine mise à jour : 09/11/2021
