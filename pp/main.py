@@ -1,5 +1,5 @@
-from discord.ext import commands
 import discord
+from discord.ext import commands
 import time
 
 def get_prefix(client, message):
@@ -17,7 +17,7 @@ bot = commands.Bot(
     case_insensitive=True
 )
 
-cogs = ['cogs.solo', 'cogs.duo', 'cogs.section', 'cogs.soloprivate', 'cogs.duoprivate', 'cogs.sectionprivate', 'cogs.arene', 'cogs.areneprivate', 'cogs.automatic']
+cogs = ['cogs.solo', 'cogs.duo', 'cogs.section', 'cogs.soloprivate', 'cogs.duoprivate', 'cogs.sectionprivate', 'cogs.arene', 'cogs.areneprivate', 'cogs.automatic', 'cogs.register', 'cogs.setup']
 @bot.event
 async def on_ready():
     print(f'Connecté en tant que {bot.user.name} - {bot.user.id}')
