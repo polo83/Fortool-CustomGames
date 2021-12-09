@@ -36,7 +36,7 @@ class Register(commands.Cog):
         )
 
         test.set_author(name="Inscription")
-        test.add_field(name='Vous êtes incrit !', value='Code créateur "XX-OSB-XX" !', inline=False)
+        test.add_field(name='Vous êtes incrit !', value='Vous pouvez nous soutenir via ce lien : https://github.com/iyed-dev/Fortool-CustomGames/ !', inline=False)
         test.add_field(name=":wink: J’espère que vous allez partager le système à vos amis !", value="©Custom Games", inline=False)
         if reaction.emoji == '✉':
             member = user
