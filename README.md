@@ -2,7 +2,7 @@
 Hey 🖖 ce bot permet de créer des parties personnalisées sur Fortnite sans code créateur.
 Vous devez modifier les macros via le logiciel Macro Recorder.
 
-*** Vous avez besoin de : ***
+***Vous avez besoin de :***
 
 **Python (https://python.org/downloads)**
 
