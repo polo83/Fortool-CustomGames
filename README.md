@@ -4,7 +4,7 @@ Vous devez modifier les macros via le logiciel Macro Recorder.
 
 #Vous avez besoin de :
 
-**Python (https://python.org/downloads)
+**Python (https://python.org/downloads)**
 
 **Pynput (pip install pynput)
 
