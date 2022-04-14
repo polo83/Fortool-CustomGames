@@ -20,4 +20,4 @@ Vous devez modifier les macros via le logiciel Macro Recorder.
 
 PS: chaque macro représente un mode de jeu, vous devez les refaires avec le logiciel Macro Recorder (/!\ ne pas changer l'extension des macros)
 
-/!\ Code modifiée par Iyed Amri et créer par Quentin Savean (https://github.com/quentinsvn)
+/!\ Code modifiée par Iyed Amri et créer par Quentin Savean (https://github.com/quentinsvn/fortool-custom-matchmaking-bot)
